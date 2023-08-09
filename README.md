@@ -1,1 +1,1 @@
-# applications
+# Update applications by developer B's story
